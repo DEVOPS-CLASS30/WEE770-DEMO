@@ -1,0 +1,16 @@
+git is a distributed version control system that allows multiple developers to work on a project simultaneously. 
+It tracks changes in source code during software development, 
+enabling collaboration and version management.
+ Git provides features such as branching, merging, and history tracking, 
+ making it a powerful tool for managing codebases.
+
+git add is a command used to stage changes in the working directory for the next commit. 
+When you modify files in your project, you need to use git add to include those changes in the staging area.
+git status is a command that shows the current state of the working directory and the staging area.
+It provides information about which files have been modified, added, or deleted, 
+and whether those changes are staged for the next commit.
+git commit is a command that records the changes in the staging area to the repository's 
+history.
+lets teext
+
+
