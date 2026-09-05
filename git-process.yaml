@@ -13,4 +13,9 @@ git commit is a command that records the changes in the staging area to the repo
 history.
 lets teext
 
+git authentication is the process of verifying the identity of a user 
+before allowing access to a Git repository.
+This can be done using various methods, such as SSH keys, 
+personal access tokens, or username
+
 
